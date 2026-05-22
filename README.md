@@ -44,7 +44,8 @@ Ponto Falso (Arremate Invisível): Essencial para finalizar carreiras de forma q
 Anel Mágico Invertido: Técnica utilizada para fechar peças que terminam com diminuições, como o topo da cabeça ou a ponta dos braços.
 
 Pergunta 3: 
-Resposta: A produção de amigurumis de forma humana apresenta desafios técnicos específicos, e os erros mais comuns estão geralmente ligados à sustentação estrutural, preenchimento e expressividade facial. Abaixo, detalho esses erros e as melhores práticas para evitá-los: 1. Pescoço Fraco e Cabeça Pendente
+Resposta: A produção de amigurumis de forma humana apresenta desafios técnicos específicos, e os erros mais comuns estão geralmente ligados à sustentação estrutural, preenchimento e expressividade facial. Abaixo, detalho esses erros e as melhores práticas para evitá-los: 
+1. Pescoço Fraco e Cabeça Pendente
 Um dos erros mais frequentes é o pescoço não suportar o peso da cabeça, que geralmente é volumosa e pesada devido ao cabelo e acessórios.
 Como evitar: Utilize uma estrutura interna de sustentação que se estenda para dentro da cabeça. Outra solução é utilizar fios de algodão mercerizado mais finos com agulhas menores (como 2.2 mm), o que gera uma trama mais fechada e rígida. Além disso, a compactação densa do enchimento no pescoço é essencial para mantê-lo firme no lugar sem a necessidade de suportes rígidos em alguns casos.
 2. Enchimento Irregular ou Insuficiente
